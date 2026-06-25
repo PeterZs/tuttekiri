@@ -7,7 +7,7 @@ This repository contains the implementation for our paper **"Uniformly Deployabl
 
 In this project, we introduce a general analytical framework for designing uniformly deployable kirigami structures from **arbitrary planar graphs**, going beyond traditional 2‑colorable or quadrilateral patterns. Our method characterizes the full space of deployable embeddings via linear constraints (which we refer to as ***Tutte auxetic embeddings***), supports **shape space exploration** for pattern optimization and enables **inverse design** for 3D shape approximation from flat sheets. 
 
-More details about our paper can be found at:  [[web demo]]() | [[project page]]() | [[paper]]() | [[suppl. video]](https://youtu.be/lAtOGjTt69o)
+More details about our paper can be found at:  [[web demo]](https://segaviv.github.io/tuttekiri/) | [[project page]](https://igl.ethz.ch/projects/tuttekiri/) | [[paper]](https://igl.ethz.ch/projects/tuttekiri/main_paper.pdf) | [[suppl. video]](https://youtu.be/lAtOGjTt69o)
 
 ## Methodology
 We represent a planar graph as a 2D tiling/mesh $M = (X, F)$ where the face list $F$ encodes the graph combinatorics and $X$ is a planar straight-line embedding (as we assume the graph is planar). We aim to answer the following questions:
